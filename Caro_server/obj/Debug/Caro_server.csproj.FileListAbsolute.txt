@@ -1,0 +1,7 @@
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\bin\Debug\Caro_server.exe.config
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\bin\Debug\Caro_server.exe
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\bin\Debug\Caro_server.pdb
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\obj\Debug\Caro_server.csproj.AssemblyReference.cache
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\obj\Debug\Caro_server.csproj.CoreCompileInputs.cache
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\obj\Debug\Caro_server.exe
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_server\obj\Debug\Caro_server.pdb

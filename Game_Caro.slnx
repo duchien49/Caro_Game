@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Caro_client/Caro_client.csproj" Id="09862fec-7abf-4744-b909-dae1633f9672" />
+  <Project Path="Caro_server/Caro_server.csproj" Id="d4a9a472-f5d0-4873-9b4b-d9bfb95308fd" />
+</Solution>

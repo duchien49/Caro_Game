@@ -1,0 +1,10 @@
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\bin\Debug\Caro_client.exe.config
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\bin\Debug\Caro_client.exe
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\bin\Debug\Caro_client.pdb
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.csproj.AssemblyReference.cache
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.Properties.Resources.resources
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.csproj.GenerateResource.cache
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.csproj.CoreCompileInputs.cache
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.exe
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.pdb
+D:\hoc_tren_UTH\LTM\Game_Caro\Caro_client\obj\Debug\Caro_client.Form1.resources
